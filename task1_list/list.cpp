@@ -28,6 +28,7 @@ void removeCar(List* pRoot, char* plateNum)
 {
 
 }
+// print list of all elements
 void printAll(List* pRoot) {
 
 }
